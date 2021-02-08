@@ -29,5 +29,7 @@ public class main {
 
 		MilkyWay milkyWay = new MilkyWay();
 		milkyWay.milkyWayNews();
+
+
 	}
 }
