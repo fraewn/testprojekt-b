@@ -1,0 +1,3 @@
+- commandReceiver is never used in the concrete command's execution method
+- dependency to commandReceiver in CommandInvoker
+- dependency to a concrete command in CommandInvoker
